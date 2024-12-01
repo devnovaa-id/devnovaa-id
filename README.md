@@ -6,4 +6,3 @@
 
 
 
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://github.com/kioshappyio/HTML-BUCIN.git)
