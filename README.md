@@ -1,1 +1,1 @@
-[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/kioshappyio/HTML-BUCIN.git)
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/kioshappyio/HTML-BUCIN.git)
