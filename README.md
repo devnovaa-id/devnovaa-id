@@ -6,7 +6,7 @@
 
 # OS used
 
-(https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)(https://github.com/kioshappyio/HTML-BUCIN.git)
+[![Naereen's github stats](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://github.com/kioshappyio/HTML-BUCIN.git)
 
 https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 
