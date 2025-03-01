@@ -1,65 +1,85 @@
-<!-- Header Section -->
+<!-- 𝗛𝗲𝗮𝗱𝗲𝗿 𝗦𝗲𝗰𝘁𝗶𝗼𝗻 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=1D9BF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cyber+Security+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3800&pause=800&color=00C4FF&center=true&vCenter=true&width=500&lines=𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠+𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚+𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧;𝘾𝙮𝙗𝙚𝙧𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮+𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩;𝙊𝙥𝙚𝙣𝙎𝙤𝙪𝙧𝙘𝙚+𝙀𝙫𝙖𝙣𝙜𝙚𝙡𝙞𝙨𝙩" alt="Typing SVG" />
+  </a>
+
+  <br>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:airohunter.io@gmail.com)
-  [![KeyAnimeListApps](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square&logo=vercel)](https://keyanimelistapps.vercel.com)
+  [![𝚌𝚘𝚗𝚝𝚊𝚌𝚝](https://img.shields.io/badge/-Contact%20Me%20%E2%86%92-gray?style=for-the-badge&color=2D3748&logoColor=white)](mailto:airohunter.io@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://keyanimelistapps.vercel.app)
 </div>
 
-<!-- GitHub Stats Section -->
-## 📈 GitHub Analytics
+<!-- 𝗚𝗶𝘁𝗛𝘂𝗯 𝗠𝗲𝘁𝗿𝗶𝗰𝘀 -->
+## 📊 𝙎𝙩𝙖𝙩𝙞𝙨𝙩𝙞𝙘𝙨
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kioshappyio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kioshappyio&theme=algolia&hide_border=true"/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=kioshappyio&theme=algolia&row=1&no-frame=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kioshappyio&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&hide_title=true"/>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=kioshappyio&theme=merko&hide_border=true&background=00000000"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kioshappyio&layout=compact&theme=merko&hide_border=true&bg_color=00000000"/>
 </div>
 
-<!-- Tech Stack Section -->
-## 🛠️ Tech Stack
+<!-- 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 -->
+## 🛠️ 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙮 𝘼𝙧𝙨𝙚𝙣𝙖𝙡
 
-### **Programming Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
-</p>
+<table align="center">
+  <!-- 𝗥𝗼𝘄 𝟭 -->
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://skillicons.dev/icons?i=python,js,ts,java" />
+      <br>
+      <strong>Languages</strong>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,astro,html" />
+      <br>
+      <strong>Frontend</strong>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,php" />
+      <br>
+      <strong>Backend</strong>
+    </td>
+  </tr>
+  
+  <!-- 𝗥𝗼𝘄 𝟮 -->
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux,ubuntu,tor,git" />
+      <br>
+      <strong>DevOps</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma" />
+      <br>
+      <strong>Tools</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,nginx" />
+      <br>
+      <strong>Infra</strong>
+    </td>
+  </tr>
+</table>
 
-### **Frontend Development**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white">
-</p>
+<!-- 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗠𝗮𝗽 -->
+## 🗺️ 𝘾𝙤𝙙𝙞𝙣𝙜 𝙅𝙤𝙪𝙧𝙣𝙚𝙮
 
-### **Backend & Databases**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
+[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=kioshappyio&theme=react-dark&hide_border=true&area=true&custom_title=𝙈𝙮%20𝙎𝙩𝙚𝙥𝙨%20%F0%9F%93%A3&radius=8)](https://github.com/kioshappyio)
 
-### **Tools & Environments**
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=torproject&logoColor=white">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</p>
-
-<!-- Activity Graph -->
-## 🗓️ Coding Activity
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kioshappyio&theme=react-dark&hide_border=true&area=true)](https://github.com/kioshappyio)
-
-<!-- Footer -->
+<!-- 𝗙𝗼𝗼𝘁𝗲𝗿 -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kioshappyio&style=flat-square&color=blueviolet" alt="Profile Views"/>
-  <p>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</p>
+  
+  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚟𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://komarev.com/ghpvc/?username=kioshappyio&style=flat-square&color=00C4FF&label=𝙿𝚛𝚘𝚏𝚒𝚕𝚎+𝚅𝚒𝚎𝚠𝚜)
+  
+  <br>
+  
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kzpm6m4qytoo5q5p52rcydhf44&cover_image=true&theme=novatorem&bar_color=00ff00&bar_color_cover=true" alt="𝚂𝚙𝚘𝚝𝚒𝚏𝚢 𝙿𝚕𝚊𝚢𝚒𝚗𝚐">
+  
+  <br>
+  
+  "𝙏𝙝𝙚 𝙤𝙣𝙡𝙮 𝙨𝙚𝙘𝙪𝙧𝙚 𝙨𝙮𝙨𝙩𝙚𝙢 𝙞𝙨 𝙩𝙝𝙚 𝙤𝙣𝙚 𝙩𝙝𝙖𝙩'𝙨 𝙥𝙤𝙬𝙚𝙧𝙚𝙙 𝙤𝙛𝙛, 𝙘𝙖𝙨𝙩 𝙞𝙣 𝙖 𝙗𝙡𝙤𝙘𝙠 𝙤𝙛 𝙘𝙤𝙣𝙘𝙧𝙚𝙩𝙚, 𝙖𝙣𝙙 𝙨𝙚𝙖𝙡𝙚𝙙 𝙞𝙣 𝙖 𝙡𝙚𝙖𝙙-𝙡𝙞𝙣𝙚𝙙 𝙧𝙤𝙤𝙢 𝙬𝙞𝙩𝙝 𝙖𝙧𝙢𝙚𝙙 𝙜𝙪𝙖𝙧𝙙𝙨."<br>- 𝙆𝙚𝙣 𝙏𝙝𝙤𝙢𝙥𝙨𝙤𝙣
+
+  [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚜𝚗𝚔](https://img.shields.io/badge/𝙎𝙝𝙤𝙬_𝙎𝙤𝙢𝙚_❤️-𝙁𝙤𝙡𝙡𝙤𝙬%20@kioshappyio-FF69B4?style=for-the-badge&logo=github)](https://github.com/kioshappyio)
 </div>
