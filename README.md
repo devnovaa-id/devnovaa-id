@@ -7,7 +7,7 @@
   <br>
   
   [![𝚌𝚘𝚗𝚝𝚊𝚌𝚝](https://img.shields.io/badge/-Contact%20Me%20%E2%86%92-gray?style=for-the-badge&color=2D3748&logoColor=white)](mailto:airohunter.io@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![WhatsApp](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://wa.me/6285134205152)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://keyanimelistapps.vercel.app)
 </div>
 
@@ -75,7 +75,7 @@
   
   <br>
   
-  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31kzpm6m4qytoo5q5p52rcydhf44&cover_image=true&theme=novatorem&bar_color=00ff00&bar_color_cover=true)](https://open.spotify.com/user/31kzpm6m4qytoo5q5p52rcydhf44)
+  
   
   <br>
   
