@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=1D9BF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cyber+Security+Specialist;Open+Source+Contributor" alt="Typing SVG" />
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:youremail@domain.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square&logo=vercel)](https://yourportfolio.com)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:airohunter.io@gmail.com)
+  [![KeyAnimeListApps](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square&logo=vercel)](https://keyanimelistapps.vercel.com)
 </div>
 
 <!-- GitHub Stats Section -->
