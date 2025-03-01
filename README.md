@@ -75,7 +75,7 @@
   
   <br>
   
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kzpm6m4qytoo5q5p52rcydhf44&cover_image=true&theme=novatorem&bar_color=00ff00&bar_color_cover=true" alt="𝚂𝚙𝚘𝚝𝚒𝚏𝚢 𝙿𝚕𝚊𝚢𝚒𝚗𝚐">
+  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31kzpm6m4qytoo5q5p52rcydhf44&cover_image=true&theme=novatorem&bar_color=00ff00&bar_color_cover=true)](https://open.spotify.com/user/31kzpm6m4qytoo5q5p52rcydhf44)
   
   <br>
   
