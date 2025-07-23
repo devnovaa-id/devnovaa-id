@@ -7,8 +7,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=devnova-id&label=Profile%20views&color=ff69b4&style=flat-square" alt="devnova-id" />
-  <a href="https://github.com/devnova-id?tab=stars">
-    <img src="https://img.shields.io/github/stars/devnova-id?color=ffccf9&style=flat-square" alt="stars"/>
+  <a href="https://github.com/devnovaa-id?tab=stars">
+    <img src="https://img.shields.io/github/stars/devnovaa-id?color=ffccf9&style=flat-square" alt="stars"/>
   </a>
 </div>
 
@@ -86,8 +86,8 @@
   
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[🌸 Anime Recommendation Engine](https://github.com/devnova-id)** | AI-powered anime recommendation system | Python, TensorFlow, Collaborative Filtering |
-| **[🎀 Waifu Generator](https://github.com/devnova-id)** | GAN-based anime character generator | Python, PyTorch, StyleGAN |
+| **[🌸 Anime Recommendation Engine](https://github.com/devnovaa-id)** | AI-powered anime recommendation system | Python, TensorFlow, Collaborative Filtering |
+| **[🎀 Waifu Generator](https://github.com/devnovaa-id)** | GAN-based anime character generator | Python, PyTorch, StyleGAN |
 | **[✨ DevNova Blogspot](https://devnova-docs.vercel.app)** | Modern tech blog platform | React, Next.js, Tailwind CSS |
 
 </div>
@@ -98,11 +98,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnova-id&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnovaa-id&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnova-id&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff79c6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnovaa-id&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff79c6)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=devnova-id&theme=tokyonight&hide_border=true&background=0d1117&stroke=bd93f9&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6)
+![GitHub Streak](https://streak-stats.demolab.com/?user=devnovaa-id&theme=tokyonight&hide_border=true&background=0d1117&stroke=bd93f9&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6)
 
 </div>
 
