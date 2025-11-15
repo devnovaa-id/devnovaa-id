@@ -21,13 +21,13 @@
 </div>
 
 - 🔭 **Current Project:**  
-  [DevNova Blogspot](https://devnova-docs.vercel.app) 🌸 - Modern tech blog with React & Next.js
+  [DevNova Blogspot](https://devnova.icu) 🌸 - Modern tech blog with React & Next.js
 
 - ✍️ **I write:**  
-  Tech articles at [DevNova Docs](https://devnova-docs.vercel.app) 📚
+  Tech articles at [DevNova Docs](https://devnova.icu) 📚
 
 - 💌 **Reach me:**  
-  devnova.id@proton.me 🍙
+  this.key@devnova.icu 🍙
 
 - 💖 **Fun Fact:**  
   I think I'm handsome ✨... and I love **anime**! 🎌
@@ -43,10 +43,10 @@
 ## 🌈 Connect With Me
 
 <p align="center">
-  <a href="https://devnova-docs.vercel.app">
+  <a href="https://devnova.icu">
     <img src="https://img.shields.io/badge/-Portfolio-ff79c6?style=for-the-badge&logo=heart&logoColor=white">
   </a>
-  <a href="mailto:devnova.id@proton.me">
+  <a href="mailto:this.key@devnova.icu">
     <img src="https://img.shields.io/badge/-Gmail-ea4aaa?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="#">
@@ -88,7 +88,7 @@
 |---------|-------------|------------|
 | **[🌸 Anime Recommendation Engine](https://github.com/devnovaa-id)** | AI-powered anime recommendation system | Python, TensorFlow, Collaborative Filtering |
 | **[🎀 Waifu Generator](https://github.com/devnovaa-id)** | GAN-based anime character generator | Python, PyTorch, StyleGAN |
-| **[✨ DevNova Blogspot](https://devnova-docs.vercel.app)** | Modern tech blog platform | React, Next.js, Tailwind CSS |
+| **[✨ DevNova Blogspot](https://devnova.icu)** | Modern tech blog platform | React, Next.js, Tailwind CSS |
 
 </div>
 
